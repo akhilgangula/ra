@@ -38,14 +38,11 @@ export default {};
 </script>
 <style scoped>
 .heading {
-  font-size: calc(18px + (20 -18) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(22px + (26 -22) * ((100vw - 300px) / (1600 - 300)));
   font-weight: bold;
 }
 .abt-title {
-  font-size: calc(16px + (18 -16) * ((100vw - 300px) / (1600 - 300)));
-}
-.content {
-  width: 80%;
+  font-size: calc(18px + (20 -18) * ((100vw - 300px) / (1600 - 300)));
 }
 
 .description {

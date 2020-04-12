@@ -2,12 +2,25 @@
   <section id="hero" >
     <div class="wrapper">
       <div class="align-middle title">RA Engineers</div>
-      <div class="caption ">We import Gypsum, Magnesite, Plaster of Paris</div>
+      <div class="caption ">We import 
+        <vue-typer 
+        :text='["Gypsum", "Magnesite", "Plaster of Paris"]' 
+        :repeat='Infinity'
+        caret-animation='phase'
+        erase-style='backspace'
+        :erase-delay='50'
+        ></vue-typer>
+        </div>
     </div>
   </section>
 </template>
 <script>
-export default {};
+import { VueTyper } from 'vue-typer'
+export default {
+  components: {
+    VueTyper
+  }
+};
 </script>
 <style scoped>
 #hero {
@@ -26,9 +39,9 @@ export default {};
   vertical-align: middle;
 }
 .title {
-  font-size: calc(26px + (36 -26) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(35px + (45 -35) * ((100vw - 300px) / (1600 - 300)));
 }
 .caption {
-  font-size: calc(10px + (12 -10) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(12px + (14 -12) * ((100vw - 300px) / (1600 - 300)));
 }
 </style>

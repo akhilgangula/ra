@@ -135,10 +135,9 @@ export default {
 
 <style scoped>
 .heading {
-  font-size: calc(18px + (20 -18) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(22px + (26 -22) * ((100vw - 300px) / (1600 - 300)));
   font-weight: bold;
 }
-
 a {
   color: inherit;
 }
