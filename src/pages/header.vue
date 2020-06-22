@@ -15,16 +15,16 @@
               <b-nav-item class="pr-lg-5 p-3" v-scroll-to="'#hero'">
                 <i class="fas fa-home mr-1"></i>Home
               </b-nav-item>
-              <b-nav-item class="pr-lg-5 p-3 " v-scroll-to="{ el: '#abt-us' }">
+              <b-nav-item class="pr-lg-5 p-3 " v-scroll-to="{ el: '#abt-us',offset: -100 }">
                 <i class="fab fa-autoprefixer mr-1"></i>About US
               </b-nav-item>
-              <b-nav-item class="pr-lg-5 p-3" v-scroll-to="{ el: '#reach' }">
+              <b-nav-item class="pr-lg-5 p-3" v-scroll-to="{ el: '#reach',offset: -100 }">
                 <i class="fas fa-ship mr-1"></i>Reach
               </b-nav-item>
-              <b-nav-item class="pr-lg-5 p-3" v-scroll-to="{ el: '#products' }">
+              <b-nav-item class="pr-lg-5 p-3" v-scroll-to="{ el: '#products' ,offset: -100}">
                 <i class="fas fa-box m-1"></i>Products
               </b-nav-item>
-              <b-nav-item class="pr-lg-5 p-3" v-scroll-to="{ el: '#contact' }">
+              <b-nav-item class="pr-lg-5 p-3" v-scroll-to="{ el: '#contact' ,offset: -100}">
                 <i class="fas fa-at mr-1"></i>Contact
               </b-nav-item>
             </b-navbar-nav>
