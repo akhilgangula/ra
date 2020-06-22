@@ -3,7 +3,7 @@
     <div class="wrapper">
       <div class="container-fluid">
         <div class="heading">Contact US</div>
-        <div class="caption">Come join out network!</div>
+        <div class="caption">Come join our network!</div>
         <div class="body mt-5">
           <div class="row mb-5 mt-5">
             <div class="col-lg-1"></div>
@@ -81,7 +81,7 @@
                   <b-form-checkbox-group v-model="form.checked" id="checkboxes-4" required>
                     <b-form-checkbox
                       value="true"
-                    >I give my consent that anyone from RA Engineers can reach me out</b-form-checkbox>
+                    >I give my consent that anyone from RA Engineers can reach me outco</b-form-checkbox>
                   </b-form-checkbox-group>
                 </b-form-group>
 
