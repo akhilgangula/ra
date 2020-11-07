@@ -2,7 +2,7 @@
   <div id="header" class="position-fixed colored">
     <div>
       <b-navbar toggleable="lg">
-        <b-navbar-brand class="m-3 logo">RA</b-navbar-brand>
+        <b-navbar-brand class="m-3 logo"><img src="logo-black.svg" alt="logo" style="width:28px;"/></b-navbar-brand>
         <b-navbar-toggle target="nav-collapse" class="border-0">
           <template v-slot:default="{ expanded }">
             <b-icon v-if="expanded" icon="list-nested"></b-icon>

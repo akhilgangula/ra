@@ -81,7 +81,7 @@
                   <b-form-checkbox-group v-model="form.checked" id="checkboxes-4" required>
                     <b-form-checkbox
                       value="true"
-                    >I give my consent that anyone from RA Engineers can reach me outco</b-form-checkbox>
+                    >I give my consent that anyone from RA Engineers can reach me out</b-form-checkbox>
                   </b-form-checkbox-group>
                 </b-form-group>
 
@@ -112,6 +112,7 @@ export default {
     onSubmit(evt) {
       evt.preventDefault();
       // alert(JSON.stringify(this.form));
+      alert('Unable to save the query, please reach out to us via mail or phone number')
     },
   }
 };
