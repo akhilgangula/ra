@@ -93,6 +93,14 @@
         </div>
       </div>
     </div>
+    <div>
+        © 2020 RA Engineers
+        <span class="dot"></span>
+dev by 
+<a href="https://dev.ra-engineers.in" class="dev-name ">akhil gangula</a>
+<span class="dot"></span>
+All rights reserved
+    </div>
   </section>
 </template>
 <script>
@@ -119,6 +127,19 @@ export default {
 </script>
 
 <style scoped>
+.dev-name {
+    text-decoration: underline;
+}
+.dot {
+  height: 4px;
+  width: 4px;
+background-color: rgba(0,0,0,.4);
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-bottom: 2px;
+}
 .heading {
   font-size: calc(22px + (26 -22) * ((100vw - 300px) / (1600 - 300)));
   font-weight: bold;
