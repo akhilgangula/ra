@@ -4,7 +4,7 @@
       <div class="align-middle title">RA Engineers</div>
       <div class="caption ">We import 
         <vue-typer 
-        :text='["Gypsum", "Magnesite", "Plaster of Paris"]' 
+        :text='["Gypsum lumps", "Magnesite lumps", "Plaster of Paris"]' 
         :repeat='Infinity'
         caret-animation='phase'
         erase-style='backspace'

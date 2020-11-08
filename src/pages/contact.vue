@@ -14,7 +14,8 @@
                   <i class="fas fa-map-marked-alt fa-lg"></i>
                 </div>
                 <div class="address col">
-                  <p>5-9-16, 3A, Prashanti Nagar, IDA Kukatpally, Kukatpally, Hyderabad, Telangana 500072</p>
+                  <p>Old:  11-5-234/A/2, HPC Road, Moosapet, Hyderabad, Telangana 500016</p>
+                  <p>New: 5-9-16, 3A, APIIC Road, Prashanti Nagar, Kukatpally, Hyderabad, Telangana 500072</p>
                 </div>
               </div>
               <div class="row m-2 mt-3 mb-3">
