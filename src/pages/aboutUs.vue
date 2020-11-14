@@ -12,16 +12,16 @@
               <div class="m-5">
               <div
                 class=" text-left description w-70"
-              >We are Indian company, based on Hyderabad. We have our foot prints since 2018. We import minerals from high quality deposits around the world. We are known for the transparency, responsiblity and accountabilty on services we provide. Our primary and major provider -- Neo global, HQ at Dubai, who are leaders in mining minerals. We only strictly deal with certified imports.</div>
+              >We are an Indian company, based on Hyderabad. We have our footprints since 2018. We import minerals from high-quality deposits around the world. We are known for the transparency, responsibility and accountability on services we provide. Our primary and major provider -- Neo global, HQ at Dubai, who are leaders in mining minerals. We only strictly deal with certified imports.</div>
               </div>
             </div>
             <div class="col-lg-5 m-lg-2 m-4 p-lg-5 d-lg-block d-sm-none">
               <div class=" text-left">
-                <li>We import mineral for a very competive price.</li>
-                <li>Live updates about shippment.</li>
+                <li>We import mineral for a very competitive price.</li>
+                <li>Live updates about the shipment.</li>
                 <li>Organized transactions.</li>
-                <li>Privacy of our custumers.</li>
-                <li>Transperancy in shipment orders.</li>
+                <li>Privacy of our customers.</li>
+                <li>Transparency in shipment orders.</li>
               </div>
             </div>
             <div class="col-lg-1"></div>
