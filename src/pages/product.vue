@@ -8,17 +8,17 @@
           <div class="row">
             <div class="col-lg col-md mt-3">
               <b-card title="Raw Magnesite Powder" :img-src="product1" img-alt="Image" img-top>
-                <b-card-text>Processed from Raw Magnesite stones.</b-card-text>
+                <!-- <b-card-text>Processed from Raw Magnesite stones.</b-card-text> -->
               </b-card>
             </div>
             <div class="col-lg col-md mt-3">
               <b-card title="Gypsum Lumps" :img-src="product4" img-alt="Image" img-top>
-                <b-card-text>Extracted in large, medium and small size Lumps.</b-card-text>
+                <!-- <b-card-text>Extracted in large, medium and small size Lumps.</b-card-text> -->
               </b-card>
             </div>
             <div class="col-lg col-md mt-3">
               <b-card title="Plaster of Paris" :img-src="product5" img-alt="Image" img-top>
-                <b-card-text>Processed quick-setting gypsum plaster.</b-card-text>
+                <!-- <b-card-text>Processed quick-setting gypsum plaster.</b-card-text> -->
               </b-card>
             </div>
           </div>
@@ -26,12 +26,12 @@
             <div class="col-2"></div>
             <div class="col-lg-4 col-md-4 mt-3">
               <b-card title="Raw Magnesite Lumps" :img-src="product2" img-alt="Image" img-top>
-                <b-card-text>Available is variety of sizes.</b-card-text>
+                <!-- <b-card-text>Available is variety of sizes.</b-card-text> -->
               </b-card>
             </div>
             <div class="col-lg-4 col-md -4 mt-3">
-              <b-card title="Raw Gypsum Powder" :img-src="product3" img-alt="Image" img-top>
-                <b-card-text>Processed from fine gypsum Lumps.</b-card-text>
+              <b-card title="Gypsum Plaster" :img-src="product3" img-alt="Image" img-top>
+                <!-- <b-card-text>Processed from fine gypsum Lumps.</b-card-text> -->
               </b-card>
             </div>
             <div class="col-2"></div>
